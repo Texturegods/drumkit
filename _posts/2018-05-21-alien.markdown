@@ -2,6 +2,5 @@
 title: Alien
 date: 2018-05-21 22:57:00 Z
 keycode: 70
-field: http://soundbible.com/grab.php?id=2213&type=mp3
 ---
 
